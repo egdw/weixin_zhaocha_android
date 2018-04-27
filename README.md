@@ -1,0 +1,2 @@
+# weixin_zhaocha_android
+用于微信小程序大家来找茬辅助的安卓版本
