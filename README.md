@@ -1,6 +1,10 @@
 # weixin_zhaocha_android
 用于微信小程序大家来找茬辅助的安卓版本
 
+## 源码下载
+
+> 链接: <a href="https://pan.baidu.com/s/1jYPFKqz449XCQfuUpXiJlw">https://pan.baidu.com/s/1jYPFKqz449XCQfuUpXiJlw</a> 密码: xyiy
+
 ## 具体详情请看 
 ### https://github.com/egdw/wx_game_zhaochao
 
