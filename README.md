@@ -3,8 +3,7 @@
 
 ## 源码下载
 
-> 链接: <a href="https://pan.baidu.com/s/1jYPFKqz449XCQfuUpXiJlw">https://pan.baidu.com/s/1jYPFKqz449XCQfuUpXiJlw</a> 密码: xyiy
-
+> 链接: <a href="https://pan.baidu.com/s/1TU5QjknsU5Ph97tUQZD_Ow"> https://pan.baidu.com/s/1TU5QjknsU5Ph97tUQZD_Ow 密码: itbf
 ## 具体详情请看 
 ### https://github.com/egdw/wx_game_zhaochao
 
